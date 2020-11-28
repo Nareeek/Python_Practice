@@ -1,20 +1,29 @@
 from selenium import webdriver
+
 browser = webdriver.Chrome()
-browser.get('https://mail.yahoo.com')
 
+'''
+browser.get('chrome://settings/content/siteDetails?site=https%3A%2F%2Fok.ru')
 
-try:
-    emailElem = browser.find_element_by_id('login-username')
-    emailElem.send_keys('not_my_real_email')
-    passwordElem = browser.find_element_by_id('login-passwd')
-    passwordElem.send_keys('12345')
+flash_icon = browser.find_element_by_css_selector('select')
+flash_icon.click()
+'''
+
+try:    
+    browser.get('https://ok.ru/')
+    
+    emailElem = browser.find_element_by_id('field_email')
+    emailElem.send_keys('+37455209292')
+    passwordElem = browser.find_element_by_id('field_password')
+    passwordElem.send_keys('Htconex999!')
     passwordElem.submit()
 
-    print(type(emailElem))
-    print('Found <{0}> element with that class name!'.format(emailElem.tag_name))
-    
-    #linkElem.click() # follows the "Read It Online" link
-    
+    browser.get('https://ok.ru/game/lov')
+
+
 except:
-    print('Was not able to find an element with that name.')
+    print('Exception happened.')
+
+
+#browser.quit()
 
