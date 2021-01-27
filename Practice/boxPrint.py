@@ -11,6 +11,7 @@ def boxPrint(symbol, width, height):
         print(symbol + (' ' * (width - 2)) + symbol)
     print(symbol * width)
 
+
 for sym, w, h in (('*', 4, 4), ('O', 60, 15), ('x', 1, 3), ('ZZ', 3, 3)):
     try:
         boxPrint(sym, w, h)
@@ -18,8 +19,7 @@ for sym, w, h in (('*', 4, 4), ('O', 60, 15), ('x', 1, 3), ('ZZ', 3, 3)):
     except Exception as err:
         print('An exception happened: ' + str(err))
 
-
-import traceback
+# import traceback
 
 try:
     raise Exception('This is the error message.')
@@ -28,4 +28,3 @@ except:
     errorFile.write(traceback.format_exc())
     errorFile.close()
     print('The traceback info was written to errorInfo.txt.')
-    

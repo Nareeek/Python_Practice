@@ -1,0 +1,234 @@
+
+Windows IP Configuration
+
+    live.sekindo.com
+    ----------------------------------------
+    Record Name . . . . . : live.sekindo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 256
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : live-eu-am.sekindo.com
+
+
+    wugagames.com
+    ----------------------------------------
+    Record Name . . . . . : wugagames.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 147
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 144.202.126.41
+
+
+    fonts.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : fonts.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.20.234
+
+
+    fonts.gstatic.com
+    ----------------------------------------
+    Record Name . . . . . : fonts.gstatic.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 19
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : gstaticadssl.l.google.com
+
+
+    teredo.ipv6.microsoft.com
+    ----------------------------------------
+    Name does not exist.
+
+
+    id5-sync.com
+    ----------------------------------------
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.89.7.198
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.186
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.89.20.87
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.89.21.10
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.89.21.31
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.22
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.89.21.30
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.48
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.183
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.156
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.166
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.49
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.89.7.199
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.75.146.199
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.89.7.110
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.195.5.232
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.195.5.38
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.155
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.46
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.89.20.86
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.36.109.47
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.75.146.200
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 503
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 51.195.5.40
+
+
